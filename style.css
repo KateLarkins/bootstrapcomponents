@@ -1,0 +1,28 @@
+.index { 
+    color:crimson;
+    background-color:blue;
+}
+.firstmainframe { 
+    color:paleturquoise;
+    background-color:pink;
+}    
+.ENIACmainframe { 
+    color:lawngreen;
+    background-color:rgb(208, 255, 0);
+}    
+.COBOLprogramming { 
+    color:violet;
+    background-color:lightcoral;
+}
+.mainframevendors { 
+    color:hotpink;
+    background-color:plum;
+}
+.linux-basedmainframe { 
+    color:aquamarine;
+    background-color:palevioletred;
+}
+h1 {
+    font-size:48px;
+    text-align:center;
+}
